@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Mingchen Li is a PhD student in Civil Engineering at Hong Kong University of Science and Technology. Her research interests include Large Language Model, Semantic Model, Building Performance Optimization, and Machine Learning. He is now a student of Prof. Wang(https://walterzwang.github.io/)  and works on semantic modeling of air conditioning systems.
+Jiatao Liu is a PhD student in Civil Engineering at Hong Kong University of Science and Technology. Her research interests include Thermal Energy Storage, HVAC Systems, Indoor Air Quality and Energy Optimization. She is now a student of Prof. Wang(https://walterzwang.github.io/)  and works on semantic modeling of air conditioning systems.
 
 
 
