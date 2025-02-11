@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Jiataoliu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiatao Liu"
 description              : &description "personal description"
-url                      : https://jaitaol.github.io
+url                      : https://jiataol.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ljt.png"
-  name             : "jiatao Liu"
+  name             : "Jiatao Liu"
   pronouns         : # example: "she/her"  
-  bio              : "This is Jiatao Liu"
+  bio              : "This is Jiatao Liu!"
   location         : "Hong Kong"
   employer         : "The Hong Kong University of Science and Technology"
   uri              : # URL
